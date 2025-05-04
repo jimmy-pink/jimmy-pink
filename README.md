@@ -7,7 +7,7 @@ building scalable, high-performance solutions, especially in the e-commerce indu
 focused on creating innovative solutions in MES management software, computer vision.   
 
 🌱 Currently exploring AI technologies   
-including AI Agents, RAG (Retrieval Augmented Generation), and MCP (Multi-Channel Processing).    
+including DNN, AI Agents, RAG (Retrieval Augmented Generation), and MCP (Model Context Protocol).    
 
 ---
 📫 Reach me at: huzhi.zhao.smecta@gmail.com  
